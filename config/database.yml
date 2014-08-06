@@ -1,0 +1,15 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: bloc-starter_development
+  pool: 5
+  username: bloc-starter
+  password:
+
+test:
+  adapter: postgresql
+  encoding: unicode
+  database: bloc-starter_test
+  pool: 5
+  username: bloc-starter
+  password:

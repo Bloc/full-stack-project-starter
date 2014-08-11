@@ -39,3 +39,7 @@ group :test do
   gem 'factory_girl_rails', '~> 4.0'
   gem 'pry-rails'
 end
+
+# For installing HAML and HAML generators
+# Read more - https://bloc.io/resources/using-haml
+gem 'haml-rails'

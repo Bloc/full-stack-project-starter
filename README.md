@@ -3,9 +3,9 @@
 
 #### Includes
 
-- PostgreSQL as database
+- PostgreSQL as database (locally and on production)
 - Sass
-- Basic Rails asset technologies (coffeescript, jQuery, etc)
+- Basic Rails asset technologies (Coffeescript, jQuery, etc)
 - Debugging tools (Better Errors, Binding Pry)
 - Testing tools (RSpec, Factory Girl, Database Cleaner, Capybara)
 
@@ -22,11 +22,6 @@
 
 ### To Get Started
 
-- Bundle install
+- Bundle install (delete or comment HAML line first, if you'd prefer ERB)
 - Edit config/database.yml (replace app and user names with your own)
 - Create the relevant databases (`rake db:create`)
-
-
-#### Activating HAML
-
-- Coming up!

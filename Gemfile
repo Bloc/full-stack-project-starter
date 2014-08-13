@@ -42,4 +42,4 @@ end
 
 # For installing HAML and HAML generators
 # Read more - https://bloc.io/resources/using-haml
-gem 'haml-rails'
+gem 'haml-rails' # Comment if you'd rather use ERB

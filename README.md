@@ -10,9 +10,9 @@
 - Testing tools (RSpec, Factory Girl, Database Cleaner, Capybara)
 
 
-#### Optional and easy to add
+#### Optional and easy to remove
 
-- HAML for easy views (with generators)
+- HAML for easy views (with generators). [Read more about HAML here](https://www.bloc.io/resources/using-haml).
 
 
 ### To Download
